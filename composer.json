@@ -1,0 +1,16 @@
+{
+    "name": "valbe/intranet",
+    "description": "Sistema de Controle de Chamados",
+    "license": "Mit",
+    "autoload": {
+        "psr-4": {
+            "Valbe\\Intranet\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Erico Bruno"
+        }
+    ],
+    "require": {}
+}
